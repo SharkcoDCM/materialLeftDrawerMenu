@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_favorite"
+        android:title="ggggg"
+        app:showAsAction="withText"/>
+    <item android:id="@+id/action_favorite2"
+        android:title="mmmmmm"
+        app:showAsAction="withText"/>
+    <item android:id="@+id/action_favorite3"
+        android:title="محمد"
+        app:showAsAction="always"/>
+</menu>
